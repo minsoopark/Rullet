@@ -1,5 +1,5 @@
 # Rullet
-Just a script selecting an item from an array randomly
+Just a script selecting an item from an array randomly like roulette
 
 # Usage
 ```
