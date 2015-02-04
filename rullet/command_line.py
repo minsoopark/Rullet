@@ -1,4 +1,4 @@
 import rullet
 
 def main():
-  rullet.run()
+  rullet.show()

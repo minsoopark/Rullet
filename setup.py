@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='rullet',
-      version='0.1.1',
+      version='0.1.2',
       description='Just a script selecting an item from an array randomly',
       url='http://github.com/minsoopark/Rullet',
       author='Minsoo Park',
